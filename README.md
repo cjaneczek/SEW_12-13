@@ -1,4 +1,2 @@
-SEW_12-13
-=========
-
-3CHIT SEW
+Learning to use git are:
+Christian Janeczek 3CHIT/TGMW
